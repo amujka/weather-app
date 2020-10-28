@@ -1,3 +1,14 @@
+Small React web app that uses openweather api for fetching current weather.
+
+React - for building an app
+
+Redux - for state managment
+
+Axios/Thunk - fetching data
+
+Framer Motion - Open source, production-ready animation library for React
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
